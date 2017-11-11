@@ -118,6 +118,6 @@
         }
         return false;
     };
-}());
+}());sss
 
 </script>
